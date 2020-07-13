@@ -1,0 +1,21 @@
+FONT RIRACODE:
+https://github.com/tonsky/FiraCode
+
+"editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+
+PLUGINS:
+Material-Icons
+Styleds-components
+Prettier
+Bracket Pair Colorizer
+ESLint
+ES7 React redux
+env-cmd
+Live Server
+
+CONFURAÇÕES PARA JSX
+
+ "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
